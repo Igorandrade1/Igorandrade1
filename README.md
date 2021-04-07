@@ -2,7 +2,7 @@ Hi! Welcome to my GitHub :relaxed:
 
 Linkedin 
  
-
+[![Linkedin Badge](https://img.shields.io/badge/-Igor%20Freitas-6633cc?style=blue-square&logo=Linkedin&logoColor=white&link=https://https://github.com/Igorandrade1/)](https://https://github.com/Igorandrade1/)
 
 
 
