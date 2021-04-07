@@ -1,12 +1,23 @@
-HEY 👋
-Ola, eu sou Igor Freitas Andrade, tenho 22 anos,
+Hi! Welcome to my GitHub :relaxed:
 
-resido em Diadema - Sp.
 
-atualmente estou estudando JavaScript e também estou estudando
-Banco de dados, MYSQL, SQL Server, PostgreSQL.
 
-Sou apaixonado por tecnologia, e iniciei em 2017 no mercado
-Mas peguei firme nos estudos em 2020, em breve vou colocar alguns projetos para que conhecam mais do meu trabalho
+About me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Igor%20Freitas-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-freitas-b91064142/)](https://www.linkedin.com/in/igor-freitas-b91064142//) 
+- :mortar_board: Eu sou um desenvolvedor dando os primeiros passos em back-end / front-end estudando Análise e Desenvolvimento de sistemas na Universidade Estácio de SÁ
+- :confetti_ball: 2021 goals: Me tornar um full stack developer e participar de diversos projetos!
+- :mag_right Estou procurando um emprego, a fim de adquirir conhecimentos e compartilhar tudo o que aprendi até agora!:
+- :earth_americas: Existem alguns projetos legais aqui, em breve vou adicionar mais!
+
+My languages and tools
+
+
+
+
+
+
+
+
+
+
+
