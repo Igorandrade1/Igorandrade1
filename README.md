@@ -25,11 +25,13 @@ Minhas linguagens  e ferramentas
 <img align="left" width="40px" alt="sql" src="https://user-images.githubusercontent.com/77635828/113378580-bdbd5980-934d-11eb-9867-22af7cecf00c.png">
 <img align="left" width="40px" alt="git" src="https://user-images.githubusercontent.com/77635828/113378614-d7f73780-934d-11eb-8a16-ec79486a7032.png">
 <img align="left" width="40px" alt="vscode" src="https://user-images.githubusercontent.com/77635828/113379292-7a63ea80-934f-11eb-9a2a-e17485badcf8.png">
+<br>
 
+<br>
 
+<br>
 
-
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorandrade1&show_icons=true&theme=tokyonight)](https://github.com/Igorandrade1/github-readme-stats)
 
 
