@@ -1,5 +1,10 @@
 Hi! Welcome to my GitHub :relaxed:
 
+Linkedin 
+ 
+
+
+
 
 
 About me
@@ -12,7 +17,7 @@ About me
 
 
 
-
+Minhas linguagens  e ferramentas 
 
 <img align="left" width="40px" alt="html" src="https://user-images.githubusercontent.com/77635828/113378137-a16ced00-934c-11eb-9096-250ed891a91a.png">
 <img align="left" width="40px" alt="css" src="https://user-images.githubusercontent.com/77635828/113378216-dbd68a00-934c-11eb-83f3-9745fd7afacc.png">
