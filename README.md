@@ -26,7 +26,15 @@ Minhas linguagens  e ferramentas
 <img align="left" width="40px" alt="git" src="https://user-images.githubusercontent.com/77635828/113378614-d7f73780-934d-11eb-8a16-ec79486a7032.png">
 <img align="left" width="40px" alt="vscode" src="https://user-images.githubusercontent.com/77635828/113379292-7a63ea80-934f-11eb-9a2a-e17485badcf8.png">
 
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorandrade1&show_icons=true&theme=tokyonight)](https://github.com/Igorandrade1/github-readme-stats)
+
+
+
+
 
 
 <img align="right" width="350px" alt="computer" src="https://user-images.githubusercontent.com/77635828/113380321-48a05300-9352-11eb-85ba-e9c298d233b9.png">
