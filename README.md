@@ -7,7 +7,7 @@ Linkedin
 
 
 
-About me
+Sobre mim
 
 - :mortar_board: Eu sou um desenvolvedor dando os primeiros passos em back-end / front-end estudando Análise e Desenvolvimento de sistemas na Universidade Estácio de SÁ
 - :confetti_ball: 2021 goals: Me tornar um full stack developer e participar de diversos projetos!
