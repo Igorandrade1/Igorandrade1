@@ -37,7 +37,7 @@ Minhas linguagens  e ferramentas
 
 
 <img align="right" width="350px" alt="computer" src="https://user-images.githubusercontent.com/77635828/113380321-48a05300-9352-11eb-85ba-e9c298d233b9.png">
-
+.
 
 
 
