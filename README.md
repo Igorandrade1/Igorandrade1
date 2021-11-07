@@ -26,11 +26,11 @@ Minhas linguagens  e ferramentas
 <img align="left" width="40px" alt="git" src="https://user-images.githubusercontent.com/77635828/113378614-d7f73780-934d-11eb-8a16-ec79486a7032.png">
 <img align="left" width="40px" alt="vscode" src="https://user-images.githubusercontent.com/77635828/113379292-7a63ea80-934f-11eb-9a2a-e17485badcf8.png">
 <img align="center" alt="wyt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="wyt-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 <br>
 <br>
 <br>
 <br>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorandrade1&show_icons=true&theme=tokyonight)](https://github.com/Igorandrade1/github-readme-stats)
 
@@ -38,7 +38,14 @@ Minhas linguagens  e ferramentas
 
 
 
-<img align="right" width="350px" alt="computer" src="https://user-images.githubusercontent.com/77635828/113380321-48a05300-9352-11eb-85ba-e9c298d233b9.png">
+<div align="center"> 
+  <a href = "mailto:wrf@cin.ufpe.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wytoriarf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
 .
 
 
