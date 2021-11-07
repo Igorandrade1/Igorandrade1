@@ -9,9 +9,9 @@ Linkedin
 
 ### Sobre mim
 
-- :mortar_board: Eu sou um desenvolvedor dando os primeiros passos em back-end / front-end estudando Análise e Desenvolvimento de sistemas na Universidade Estácio de SÁ
+- :mortar_board: Eu sou um desenvolvedor RPA e back-end com python, django / front-end eu tenho como stack HTML CSS e JS, com o pé em react.  Estudando Análise e Desenvolvimento de sistemas na Universidade Estácio de SÁ
 - :confetti_ball: 2021 goals: Me tornar um full stack developer e participar de diversos projetos!
-* :mag_right: Estou procurando um emprego, a fim de adquirir conhecimentos e compartilhar tudo o que aprendi até agora! 
+* :mag_right: No momento eu estou atuando já, mas sempre aberto a novas oportunidades.
 - :earth_americas: Existem alguns projetos legais aqui, em breve vou adicionar mais!
 
 
